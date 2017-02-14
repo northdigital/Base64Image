@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Knockout" type="javaScript">
+    <properties>
+      <option name="frameworkName" value="Knockout" />
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/bower_components/knockout/dist" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/bower_components/knockout/dist" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

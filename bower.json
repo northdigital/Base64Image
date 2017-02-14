@@ -1,0 +1,21 @@
+{
+  "name": "ImageCaching",
+  "authors": [
+    "panagiotis <giotismail@yahoo.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "3.1.1",
+    "knockout": "knockoutjs#3.4.1"
+  }
+}
